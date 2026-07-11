@@ -656,5 +656,4 @@ def redact_pii(text):
 ---
 
 *Built and maintained by Ronak Sengupta — Senior AI/Software Engineer*
-*Apple Maps (via Payoda Technologies) | Hyderabad, India*
 *GitHub: github.com/r1999-ron | Blog: medium.com/@ronaksengupta*
