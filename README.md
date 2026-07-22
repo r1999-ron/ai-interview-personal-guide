@@ -456,8 +456,8 @@ Cost tracking:       tokens × price per token per agent type
 
 | Resource | Link | What it covers |
 |---|---|---|
-| AI Interview Mastery Bundle | https://aidemy.trainercentralsite.in/clientapp/app/course/23022000000014019/course-details?previousPage=5 | Comprehensive AI interview preparation course |
-| Agentic AI Problems | https://www.agenticprep.io/#preview | Practice problems specifically for agentic AI interviews |
+| AI Interview Mastery Bundle | https://aidemy.trainercentralsite.in/clientapp/app/course/23022000000014019/course-details?previousPage=5, https://un-unemployed-three.vercel.app/ | Comprehensive AI interview preparation course |
+| Agentic AI Problems | https://www.agenticprep.io/#preview, https://practicai.vercel.app/ | Practice problems specifically for agentic AI interviews |
 | AI System Design (GitHub) | https://github.com/JoshithReddyAleti/AI_Engineer_Interview_Prep/tree/main | AI engineer system design patterns and prep material |
 | AI Engineering - AlgoMaster | https://algomaster.io/learn/ai-engineering/the-ai-gateway-pattern | Comprehensive guide to understand the overall Agentic AI architecture |
 
